@@ -19,22 +19,7 @@ class script(object):
 
 <code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>"""
 
-      MANUELFILTER_TXT = """Help: <b>Filters</b>
-
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
-
-<b>NOTE:</b>
-1. This bot should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
-
-<b>Commands and Usage:</b>
-• /filter - <code>add a filter in chat</code>
-• /filters - <code>list all the filters of a chat</code>
-• /del - <code>delete a specific filter in chat</code>
-• /delall - <code>delete the whole filters in a chat (chat owner only)</code>
-
-• <code>/g_filter off</code> use this commoand + on/off in your group to control global filter in your group"""
+    MANUELFILTER_TXT = """‎ """
    
     BUTTON_TXT = """Help: <b>Buttons</b>
 
