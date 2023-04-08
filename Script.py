@@ -1,8 +1,7 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-  U can't use meeeh....."""
+    ABOUT_TXT = """𝙼𝚈 𝙽𝙰𝙼𝙴 : {} \nU can't use meeeh....."""
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/EvamariaTG/EvaMaria>𝙀𝙑𝘼 𝙈𝘼𝙍𝙄𝘼</a>
