@@ -681,7 +681,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InputMediaPhoto(random.choice(PICS), script.HELP_TXT.format(query.from_user.mention), enums.ParseMode.HTML),
             reply_markup=reply_markup,           
         )
-    elif query.data == "about":
+    elif  query.data == "about":
         buttons = [[
             InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎', callback_data='source')
             ],[
