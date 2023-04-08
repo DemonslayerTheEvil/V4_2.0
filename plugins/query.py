@@ -643,8 +643,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InputMediaPhoto(random.choice(PICS), "Select your required mode from below!"),
             reply_markup=reply_markup,           
         )
-@Client.on_message(filters.command('help') & filters.user(ADMINS))
-async def help(client, message):
+    elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰 𝙼𝙾𝙳𝚂', callback_data='extra'),            
             ],[
