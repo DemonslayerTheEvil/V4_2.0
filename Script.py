@@ -1,11 +1,9 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """𝙼𝚈 𝙽𝙰𝙼𝙴 : {} \nU can't use meeeh....."""
+    ABOUT_TXT = """👋 𝙃𝙚𝙮, 𝙈𝙮 𝙉𝙖𝙢𝙚 𝙄𝙨 {} \n𝙐 𝘾𝙖𝙣'𝙩 𝙐𝙨𝙚 𝙈𝙚 𝙄𝙢 𝙊𝙣𝙡𝙮 𝙋𝙧𝙚𝙨𝙚𝙣𝙩 𝙄𝙣 𝙈𝙖𝙡𝙖𝙮𝙖𝙡𝙞 𝙁𝙧𝙚𝙖𝙠𝙨 𝙂𝙧𝙤𝙪𝙥....."""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/EvamariaTG/EvaMaria>𝙀𝙑𝘼 𝙈𝘼𝙍𝙄𝘼</a>
-"""
+    SOURCE_TXT = """‎ """
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -19,11 +17,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>"""
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
-    
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
 
